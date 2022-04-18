@@ -1,4 +1,4 @@
-#Reinforcement learning techniques for dynamic pricing
+# Reinforcement learning techniques for dynamic pricing
 Code from the final project of the Master Course.
 
 The main propose of this work is to study different techniques of reinforcement learning in order to
